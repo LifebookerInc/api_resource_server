@@ -1,0 +1,34 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Google::APIClient - Initializing client with options {}
+Google::APIClient - Please provide :application_name and :application_version when initializing the client
+Google::APIClient::Request Sending API request get https://www.googleapis.com/discovery/v1/apis/analytics/v3/rest {"User-Agent"=>"google-api-ruby-client/0.6.4 Mac OS X/10.8.5"}
+Google::APIClient::Request Result: 200 {"expires"=>"Sun, 03 Nov 2013 16:39:41 GMT", "date"=>"Sun, 03 Nov 2013 16:34:41 GMT", "etag"=>"\"DGgqtFnjgu83tuwvvVNNUhOiHWk/IpWtXM-SYuOWKLGlpsQELRW73lI\"", "content-type"=>"application/json; charset=UTF-8", "x-content-type-options"=>"nosniff", "x-frame-options"=>"SAMEORIGIN", "x-xss-protection"=>"1; mode=block", "server"=>"GSE", "age"=>"55", "cache-control"=>"public, max-age=300, must-revalidate, no-transform", "alternate-protocol"=>"443:quic", "connection"=>"close"}
+Google::APIClient::Request Sending API request get https://www.googleapis.com/analytics/v3/management/accounts/2633140/webproperties/UA-2633140-6/profiles/73788770/experiments {"User-Agent"=>"google-api-ruby-client/0.6.4 Mac OS X/10.8.5", "Authorization"=>"Bearer ya29.AHES6ZQLcmyA0dMoq6cCFbV3Abx5LovZZzmTwXtFQGzkneME0A", "Cache-Control"=>"no-store"}
+Google::APIClient::Request Result: 200 {"expires"=>"Sun, 03 Nov 2013 16:35:37 GMT", "date"=>"Sun, 03 Nov 2013 16:35:37 GMT", "cache-control"=>"private, max-age=0, must-revalidate, no-transform", "etag"=>"\"yw9_eWYH7O9SphOYdTrh7l9T458/AY1ok-SnzMKmiDcm5ZadMNt1hQU\"", "content-type"=>"application/json; charset=UTF-8", "x-content-type-options"=>"nosniff", "x-frame-options"=>"SAMEORIGIN", "x-xss-protection"=>"1; mode=block", "server"=>"GSE", "alternate-protocol"=>"443:quic", "connection"=>"close"}
+Connecting to database specified by database.yml
+Reloading Gxapi Experiments
+Google::APIClient - Initializing client with options {}
+Google::APIClient - Please provide :application_name and :application_version when initializing the client
+Google::APIClient::Request Sending API request get https://www.googleapis.com/discovery/v1/apis/analytics/v3/rest {"User-Agent"=>"google-api-ruby-client/0.6.4 Mac OS X/10.8.5"}
+Google::APIClient::Request Result: 200 {"expires"=>"Sun, 03 Nov 2013 16:39:41 GMT", "date"=>"Sun, 03 Nov 2013 16:34:41 GMT", "etag"=>"\"DGgqtFnjgu83tuwvvVNNUhOiHWk/IpWtXM-SYuOWKLGlpsQELRW73lI\"", "content-type"=>"application/json; charset=UTF-8", "x-content-type-options"=>"nosniff", "x-frame-options"=>"SAMEORIGIN", "x-xss-protection"=>"1; mode=block", "server"=>"GSE", "age"=>"88", "cache-control"=>"public, max-age=300, must-revalidate, no-transform", "alternate-protocol"=>"443:quic", "connection"=>"close"}
+Google::APIClient::Request Sending API request get https://www.googleapis.com/analytics/v3/management/accounts/2633140/webproperties/UA-2633140-6/profiles/73788770/experiments {"User-Agent"=>"google-api-ruby-client/0.6.4 Mac OS X/10.8.5", "Authorization"=>"Bearer ya29.AHES6ZQ0fSa3-ELUJpVlwv2AvbFMXTcDD7sqlP4qB0XuZtDeJA", "Cache-Control"=>"no-store"}
+Google::APIClient::Request Result: 200 {"expires"=>"Sun, 03 Nov 2013 16:36:09 GMT", "date"=>"Sun, 03 Nov 2013 16:36:09 GMT", "cache-control"=>"private, max-age=0, must-revalidate, no-transform", "etag"=>"\"yw9_eWYH7O9SphOYdTrh7l9T458/AY1ok-SnzMKmiDcm5ZadMNt1hQU\"", "content-type"=>"application/json; charset=UTF-8", "x-content-type-options"=>"nosniff", "x-frame-options"=>"SAMEORIGIN", "x-xss-protection"=>"1; mode=block", "server"=>"GSE", "alternate-protocol"=>"443:quic", "connection"=>"close"}
+Reloading Gxapi Experiments Complete!
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
